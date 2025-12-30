@@ -1,6 +1,3 @@
-
-<video src="https://github.com/user-attachments/assets/a33a9cc6-e4f6-452d-960b-c722cfa4591f">
-
 ## 0.截帧分析
 ### 背景
 **背景墙：**
